@@ -1,0 +1,5 @@
+* Overview
+In this lab you will learn how to code approximation methods to solve problems using a computer.
+* Simulation
++ Use the directory =src/simulation= for the simulation files.
++ And use =src/simulation/static= for static files.
